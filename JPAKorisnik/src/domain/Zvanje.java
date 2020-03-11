@@ -1,0 +1,6 @@
+package domain;
+
+public enum Zvanje {
+	REDOVNI_PROFESOR,VANREDNI_PROFESOR,DOCENT,ASISTENT,SARADNIK_U_NASTAVI;
+
+}
